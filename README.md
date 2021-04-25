@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is nabil
 #### I am a full stack developer
-![I am a full stack developer](https://scontent.ffez1-2.fna.fbcdn.net/v/t1.6435-0/p180x540/160763335_1172223076575227_3592847343784349273_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeE14B7eFQpcAv0RNxRq_0Hp34-omoEDjPDfj6iagQOM8KiaxckEYl5HngMot_pD6hcS3WXj5hGMozPhOxpOvJ6L&_nc_ohc=vE3WPQkSMcUAX9uqFFi&_nc_ht=scontent.ffez1-2.fna&tp=6&oh=79be241c07767bbc79d703252e72b10d&oe=60AC8A54)
+![I am a full stack developer](https://github.com/AbdelqaouiNabil/AbdelqaouiNabil/blob/main/WhatsApp%20Image%202021-03-13%20at%2023.35.40.jpeg?raw=true)
 
 I am Nabil from Morocco. I do content on YouTube about development. I really like learning new programming languages and sharing information with other people. 
 
